@@ -1,15 +1,9 @@
-# :guitar: Iteam vanilla JS Template :fire:
+# :guitar: Basic RxJS example showcasing how the scan operator works :fire:
 
-## Setup
+## Instructions
 
-Install the dependencies:
 
 ```sh
 npm install
+npm run dev
 ```
-
-## Recommended VSCode extensions
-
-- Prettier
-- Tailwind CSS Intellisense
-# rxjs-scan-demo
